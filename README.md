@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 
 <img src='[./Video Walkthrough.gif](https://imgur.com/gallery/website-walkthrough-fXfJRZL)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/U34PEke" data-context="false" ><a href="//imgur.com/a/U34PEke"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/fXfJRZL"  ><a href="//imgur.com/a/fXfJRZL">Website Walkthrough</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 GIF created with : [Kap]for MacOS
 
