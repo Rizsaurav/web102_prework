@@ -4,7 +4,7 @@ Submitted by: **Saurav Rijal**
 
 **Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** 10 hours
+Time spent: 10 hours
 
 ## Required Features
 
