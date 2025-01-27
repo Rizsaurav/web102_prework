@@ -26,7 +26,9 @@ Here's a walkthrough of implemented features:
 
 Link: https://drive.google.com/file/d/13Ql1NEsiXb_Qkqf_8n0Gf2K0gIhigyae/view?usp=drive_link
 
-<img src='[./Video Walkthrough.gif](https://imgur.com/gallery/website-walkthrough-fXfJRZL)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://i.imgur.com/5kXOkTm.gif
+
+<img src='([https://imgur.com/gallery/website-walkthrough-fXfJRZL](https://i.imgur.com/5kXOkTm.gif))' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/fXfJRZL"  ><a href="//imgur.com/a/fXfJRZL">Website Walkthrough</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
